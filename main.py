@@ -11,7 +11,7 @@ from kivy.uix.relativelayout import RelativeLayout
 from kivy.core.audio import SoundLoader
 
 
-WINNING_SCORE = 6
+WINNING_SCORE = 5
 
 class MenuWidget(RelativeLayout):
         def on_touch_down(self, touch):
