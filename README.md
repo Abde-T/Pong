@@ -1,3 +1,4 @@
+![Screenshot 2023-12-23 075228](https://github.com/Abde-T/Pong/assets/122224463/e6704b0d-9870-4f84-babd-bf8ffde85fef)
 The Pong Game App is a Python-based application developed using the Kivy framework, offering a modern and engaging gaming experience. This classic Pong game is enhanced with the inclusion of an Artificial Intelligence (AI) opponent, adding an extra layer of challenge for players.
 
 Key Features:
